@@ -1,3 +1,5 @@
+This project is built using Arduino UNO board. The sensor gives the distance from the obstruction caused and giving threat level using combination of LEDs.
+
 Requirements :
   @jumper wires
   @ultrasound sensor
